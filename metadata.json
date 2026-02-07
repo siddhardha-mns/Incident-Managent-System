@@ -1,0 +1,8 @@
+{
+  "name": "Sentinel Response System",
+  "description": "A comprehensive Emergency Response Voice Agent and Dashboard System featuring real-time AI analysis, incident management, and intelligent team dispatching.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
